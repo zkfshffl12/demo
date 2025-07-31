@@ -10,6 +10,7 @@ public class hleoo {
     public static void main(String[] args) {
         int awsd=20;
         log.info("awsd,{}", awsd);
+        
 
     }
 }
